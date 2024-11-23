@@ -1,0 +1,13 @@
+{
+    "projects": [
+        {
+            "name": "sample",
+            "path": "./sources/contract/ServiceNftMinter.tact",
+            "output": "./sources/output",
+            "options": {
+                "external": true,
+                "debug": true
+            }
+        }
+    ]
+}
